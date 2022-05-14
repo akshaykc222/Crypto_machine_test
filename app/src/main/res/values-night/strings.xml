@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prices">Prices</string>
+    <string name="global_market_caps_178_28_534086_57">Global Market Caps : $178,28,534086.57</string>
+    <string name="search_coins">Search Coins...</string>
+    <string name="price">Price</string>
+    <string name="change">Change</string>
+    <string name="name">Name</string>
+</resources>

@@ -12,7 +12,7 @@ interface CurrencyDao {
     fun getAll():List<CurrencyEntity>
 
     @Insert
-    fun insertAll(vararg sentNotification: CurrencyEntity)
+    fun insertAll(vararg sentNotification: List<CurrencyEntity>)
 
     @Delete
     fun deleteWithId(sentNotification: CurrencyEntity)

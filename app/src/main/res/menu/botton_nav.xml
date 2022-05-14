@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+
+        android:id="@+id/prices"
+        android:title="@string/prices"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_menu_24"/>
+    <item
+        android:id="@+id/fav"
+        app:showAsAction="always"
+        android:title="@string/favorites"
+        android:icon="@drawable/ic_baseline_star_24"/>
+    <item
+        android:id="@+id/portfolio"
+        android:title="@string/portfolio"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_bar_chart_24"/>
+    <item
+        android:id="@+id/news"
+        app:showAsAction="always"
+        android:title="@string/news"
+        android:icon="@drawable/ic_baseline_rss_feed_24"/>
+    <item
+        android:id="@+id/invest"
+        android:title="@string/invest"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_bar_chart_24"/>
+</menu>

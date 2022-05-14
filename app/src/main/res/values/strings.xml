@@ -6,4 +6,9 @@
     <string name="price">Price</string>
     <string name="change">Change</string>
     <string name="name">Name</string>
+
+    <string name="favorites">Favorites</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="news">News</string>
+    <string name="invest">Invest</string>
 </resources>
